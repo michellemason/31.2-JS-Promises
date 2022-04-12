@@ -175,4 +175,4 @@ function makePokeCard(name, imgSrc, description) {
     </div>
   `;
 }
-});
+
